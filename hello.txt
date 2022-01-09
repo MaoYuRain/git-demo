@@ -8,6 +8,7 @@ hello git!2
 3
 hello world!
 hello git! master test
+hello git! hot-fix test
 
 hot-fix
 
